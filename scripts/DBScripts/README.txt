@@ -1,0 +1,1 @@
+This folder has the DB creation and schema construction scripts.
